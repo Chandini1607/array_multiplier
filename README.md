@@ -25,8 +25,8 @@ unsigned operands, `a` and `b`, and produces an 8-bit product, `p`.
 
   Name                Roll number
   ------------------- -------------------
-  `<Team Member 1  `<Roll Number 1>`
-  `<Team Member 2>`   `<Roll Number 2>`
+  Chandini            2024102020
+  Veekshita           2024102026
 
 ## Design Specification
 
