@@ -10,5 +10,5 @@ full_adder_test
 # Temporary files
 setup_test.txt
 
-# LibreLane run outputs (keep only the required final deliverables)
+# LibreLane run outputs
 pnr/runs/
