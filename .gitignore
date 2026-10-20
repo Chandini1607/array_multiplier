@@ -1,0 +1,14 @@
+# Simulation executables
+sim
+sim_new
+gls
+full_adder_test
+
+# Simulation waveforms
+*.vcd
+
+# Temporary files
+setup_test.txt
+
+# LibreLane run outputs (keep only the required final deliverables)
+pnr/runs/
