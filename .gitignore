@@ -1,3 +1,6 @@
+# LibreLane generated runs
+pnr/runs/
+
 # Simulation executables
 sim
 sim_new
@@ -10,5 +13,8 @@ full_adder_test
 # Temporary files
 setup_test.txt
 
-# LibreLane run outputs
-pnr/runs/
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
